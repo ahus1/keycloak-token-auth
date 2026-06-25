@@ -192,7 +192,7 @@ Here is the detailed configuration
 ### Add Scope to the source client
 
 Once we have created the client scope `proxy`, it must be assigned to the `source client`. In our example, this is the client "**mobile-app**".
-Abhängig davon, we der Scope angefragt wird, kann dieser als "Optional" oder "Default" konfiguriert werden.
+Depending on how you request the scope, set it to either "Optional" or "Default".
 In this configuration, the scope must always be requested by the client.
 
 ![add-optional-scope.png](docu/images/source-client/add-optional-scope.png)
